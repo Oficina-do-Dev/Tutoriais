@@ -12,7 +12,7 @@ O **Grupo de Produtos** é uma forma de exibição para produtos que permite ins
 
 3 -> Desça até a sessão **Produtos Agrupados** e clique sobre a opção **Adicionar Produtos ao Grupo**
 
-![Adicionar Produtos](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-3.png)
+![Adicionar produtos](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-3.PNG)
 
 **OBS:** Você pode realizar a filtragem do item conforme achar mais conveniente e posteriormente selecionar o item e clicar em **Adicionar produtos selecionados**,
 
