@@ -8,7 +8,7 @@ O **Grupo de Produtos** é uma forma de exibição para produtos que permite ins
 
 2 -> Prencha com as informações básicas do produto, note que a quantidade não precisa ser inserida neste tipo de produto
 
-![Informações do produto](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-2.png)
+![Informacao do produto](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-2.png)
 
 3 -> Desça até a sessão **Produtos Agrupados** e clique sobre a opção **Adicionar Produtos ao Grupo**
 
