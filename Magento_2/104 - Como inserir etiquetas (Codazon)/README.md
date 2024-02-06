@@ -4,11 +4,11 @@ O tema CODAZON possui um recurso de etiquetas e poder ser utilizado para organiz
 
 1 -> No painel Magento, acesse o menu CODAZON > PRODUCT LABEL > GERENCIAR RÓTULOS
 
-![Product Label](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-1.png)
+![Product Label](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-1.png)
 
 2 -> Na opção que se abrir clique na opção **Add New Product Label** e/ou **Adicionar Nova Etiqueta**
 
-![Adicionar Nova Etiqueta](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-2.png)
+![Adicionar Nova Etiqueta](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-2.png)
 
 3 -> Na tela que se abrir você deve obrigatoriamente preencher o título da etiqueta e manter a situação como **Habilitado**
 
@@ -16,24 +16,24 @@ O tema CODAZON possui um recurso de etiquetas e poder ser utilizado para organiz
 
 **OBS:** É possível inserir uma imagem como etiqueta porém não é recomendável pois pode distorcer a depender da resolução utilizada.
 
-![Campos necessários](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-3.PNG)
+![Campos necessários](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-3.PNG)
 
 Ficando da seguinte forma:
 
-![Exemplo de etiqueta](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-4.png)
+![Exemplo de etiqueta](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-4.png)
 
 5 -> Posteriormente acesse a aba **Condições** você deve selecionar o condicionando para acatar a etiqueta, conforme dito anteriormente, utilizaremos o atributo **Etiqueta**, sendo assim, clique no **+** selecione a opção **Etiqueta** e no exemplo aqui citado utilizaremos a opção selecionada: 
 
-![Condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-5.png)
+![Condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-5.png)
 
 Ficando da seguinte forma:
 
-![Exemplo das condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-6.png)
+![Exemplo das condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-6.png)
 
 
 6 -> Resultado esperado:
 
-![Exemplo das condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/103%20-%20Grupo%20de%20Produtos/images/image-7.png)
+![Exemplo das condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-7.png)
 
 **OBS:** Caso você quiser alterar a cor da etiqueta lembre-se de alterar no campo CSS Personalizado.
 
