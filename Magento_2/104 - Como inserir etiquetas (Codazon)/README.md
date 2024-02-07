@@ -35,6 +35,10 @@ Ficando da seguinte forma:
 
 ![Exemplo das condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-7.png)
 
+E na visão de catalogo (caso habilitado no atributo a opção: Usado na listagem de produtos > SIM)
+
+![Exemplo das condições](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/104%20-%20Como%20inserir%20etiquetas%20(Codazon)/images/image-8.png)
+
 **OBS:** Caso você quiser alterar a cor da etiqueta lembre-se de alterar no campo CSS Personalizado.
 
 ### Dúvidas/Suporte:
