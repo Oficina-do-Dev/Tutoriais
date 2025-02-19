@@ -70,11 +70,11 @@ Você pode fazer uma combinação de condições, ou seja, se duas condições f
 
 ![Acao - Exemplo](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/108%20-%20Como%20criar%20uma%20regra%20de%20cupom%20para%20desconto%20na%20compra/images/image12.png)
 
-11 - Abaixo temos a sessão **Etiquetas** que serve basicamente para identificar qual cupom o cliente inseriu em seu pedido, você pode ter uma etiqueta especifica para cada visão de loja ou se preferir utilizar a mesma, em nosso exemplo vamos usar a mesma, conforme print abaixo:
+11 -> Abaixo temos a sessão **Etiquetas** que serve basicamente para identificar qual cupom o cliente inseriu em seu pedido, você pode ter uma etiqueta especifica para cada visão de loja ou se preferir utilizar a mesma, em nosso exemplo vamos usar a mesma, conforme print abaixo:
 
 ![Acao - Exemplo](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/108%20-%20Como%20criar%20uma%20regra%20de%20cupom%20para%20desconto%20na%20compra/images/image13.png)
 
-12 - Feito isso você deve clicar na opção **SALVAR** localizada no canto superior direito e/ou **Salvar e Continuar Editando** caso você queira fazer outras customizações na regra.
+12 -> Feito isso você deve clicar na opção **SALVAR** localizada no canto superior direito e/ou **Salvar e Continuar Editando** caso você queira fazer outras customizações na regra.
 
 **OBS:** Após salvar a regra ela se torna disponível para ser usada imediatamente, tenha cuidado em criar regras sem cupom pois você pode afetar sua lucratividade e/ou a usabilidade para todos os clientes a depender da condição a ser determinada na configuração da regra.
 
