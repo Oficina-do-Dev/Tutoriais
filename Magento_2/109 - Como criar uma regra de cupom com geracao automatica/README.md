@@ -74,6 +74,10 @@ Você pode fazer uma combinação de condições, ou seja, se duas condições f
 
 ![Acao - Exemplo](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/109%20-%20Como%20criar%20uma%20regra%20de%20cupom%20com%20geracao%20automatica/images/image5.png)
 
+
+## GERAR O CUPOM
+
+
 14 -> Agora na parte inferior existe a opção **Gerenciar Códigos de Cupom**, esta área é responsável por gerar os códigos de Cupom vinculado a esta regra, podendo alterar o tamanho do código caso necessário, conforme print abaixo:
 
 ![Gerenciar cupom](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/109%20-%20Como%20criar%20uma%20regra%20de%20cupom%20com%20geracao%20automatica/images/image14.png)
@@ -95,7 +99,8 @@ Você pode fazer uma combinação de condições, ou seja, se duas condições f
 ![Cupom gerado](https://github.com/Oficina-do-Dev/Tutoriais/blob/main/Magento_2/109%20-%20Como%20criar%20uma%20regra%20de%20cupom%20com%20geracao%20automatica/images/image17.png)
 
 
-19 -> Feito isso você deve clicar na opção **SALVAR** localizada no canto superior direito e/ou **Salvar e Continuar Editando** caso você queira fazer outras customizações na regra.
+19 -> Feito isso você deve clicar na opção **SALVAR** localizada no canto superior direito e/ou **Salvar e Continuar Editando** caso você queira fazer outras customizações na regra ou criar novos códigos (exemplo).
+
 
 **ATENÇÃO:** Tenha cuidado ao criar as regras para evitar problemas de lucratividade, atente-se as condições e quantidades de uso do cupom.
 
